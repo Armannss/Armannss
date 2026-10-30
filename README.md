@@ -13,10 +13,11 @@ An English learning app with short lessons, spaced-repetition flashcards and spe
 ### [Parsilon Part](https://github.com/Armannss/Parsilon-web-application-mobile-shell)
 An auto-parts shop with an admin panel and an AI assistant that searches the live catalogue for compatible parts. Built with Next.js, TypeScript, Prisma, PostgreSQL and the Claude API.
 
-### NEXTRIBE · Private project
-A Persian, mobile-first growth club app with daily missions across six life areas, progress tracking, a shared leaderboard and personal reminders. Includes a Telegram membership bot and an admin dashboard for managing members and content. Built with Next.js, React, TypeScript, PostgreSQL and Prisma.
+### [NEXTRIBE](https://nextribe.app/welcome) · [Case study](https://github.com/Armannss/Armannss/blob/main/projects/nextribe/README.md)
+A Persian, mobile-first personal-growth platform combining a public website with an installable web super-app. Daily missions across six life areas, planning, progress, personal tools and community, with member administration and Telegram integration. Built with Next.js, React, TypeScript, PostgreSQL and Prisma.
 
-*Private repository · Source code not public.*
+[Explore the public app preview](https://nextribe.app/welcome#inside-app) · [Member login](https://nextribe.app/login)  
+*Private source repository · Public website and portfolio case study.*
 
 ### MEVO / Director · Private collaboration
 A remote-conducting project connecting a conductor in a Meta Quest VR headset with musicians in a browser-based virtual rehearsal hall. The system spans four private repositories: a Unity VR conductor app, a Unity WebGL musician view, a Node.js streaming bridge and a Fastify signaling server, with WebRTC carrying real-time movement data.
