@@ -13,6 +13,11 @@ An English learning app with short lessons, spaced-repetition flashcards and spe
 ### [Parsilon Part](https://github.com/Armannss/Parsilon-web-application-mobile-shell)
 An auto-parts shop with an admin panel and an AI assistant that searches the live catalogue for compatible parts. Built with Next.js, TypeScript, Prisma, PostgreSQL and the Claude API.
 
+### NEXTRIBE · Private project
+A Persian, mobile-first growth club app with daily missions across six life areas, progress tracking, a shared leaderboard and personal reminders. Includes a Telegram membership bot and an admin dashboard for managing members and content. Built with Next.js, React, TypeScript, PostgreSQL and Prisma.
+
+*Private repository · Source code not public.*
+
 ## What I'm working on
 
 Improving armap's repository mapping and testing it on more codebases. Feedback, reproducible bug reports and contributions are welcome in the [issue tracker](https://github.com/Armannss/armap/issues).
