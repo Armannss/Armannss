@@ -18,6 +18,13 @@ A Persian, mobile-first growth club app with daily missions across six life area
 
 *Private repository · Source code not public.*
 
+### MEVO / Director · Private collaboration
+A remote-conducting project connecting a conductor in a Meta Quest VR headset with musicians in a browser-based virtual rehearsal hall. The system spans four private repositories: a Unity VR conductor app, a Unity WebGL musician view, a Node.js streaming bridge and a Fastify signaling server, with WebRTC carrying real-time movement data.
+
+I collaborated with **Matteo** and **Leonardo** on this project.
+
+*Four private repositories · Source code not public.*
+
 ## What I'm working on
 
 Improving armap's repository mapping and testing it on more codebases. Feedback, reproducible bug reports and contributions are welcome in the [issue tracker](https://github.com/Armannss/armap/issues).
