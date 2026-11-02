@@ -3,7 +3,7 @@
 **Software developer building AI tools and full-stack web apps**  
 Computer Engineering student at Politecnico di Torino · Turin, Italy
 
-[Email](mailto:arman.naserfar@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-naseri-far-5773b3341/) · [GitHub](https://github.com/Armannss)
+[Portfolio](https://armannss.github.io/portfolio/) · [Email](mailto:arman.naserfar@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/arman-naseri-far-5773b3341/) · [GitHub](https://github.com/Armannss)
 
 ## Summary
 
@@ -29,7 +29,7 @@ A Persian, mobile-first personal-growth platform: a public website plus a web ap
 - Built daily missions across six life areas, planning, progress charts, personal tools and a tribe leaderboard ranked by progress toward each member's own goal.
 - Added a safety step in onboarding that hides unsuitable missions, and kept mood, journal and safety answers out of anything the tribe can see.
 - Built member administration, personal Web Push reminders and a Telegram bot for membership applications.
-- Scale: 228 commits, 71 pages, 19 API routes and 77 database models.
+- Scale: 71 pages, 24 API routes and 77 database models.
 
 *Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Web Push, Claude API*
 
@@ -97,14 +97,27 @@ An internal tool for Belvia Online Shop that works out the final price of a cust
 *HTML, CSS, JavaScript, PWA*
 
 ### Jetaime
-**Creator and developer** · Nov 2026 to present · Private source
+**Creator and developer** · Nov 2026 to present · [Case study](https://armannss.github.io/portfolio/#jetaime) · Private source
 
 Internal tools and a website for a pastry brand, in early development.
 
 - Built a monorepo with an internal tool for cost calculation, price lists and customer invoices, plus a public website.
 - Gave the website a restricted database role that can read only published products, so costs and recipes stay out of its reach.
+- Stored ingredient prices by date and kept each invoice line's own price and cost, so old invoices do not change.
 
 *Next.js, TypeScript, PostgreSQL, Drizzle, Turborepo*
+
+### Portfolio
+**Creator** · Nov 2026 to present
+[Website](https://armannss.github.io/portfolio/) · [Repository](https://github.com/Armannss/portfolio)
+
+My personal site, with case studies and a live graph of how my projects share technology.
+
+- Prerendered the React app into static HTML at build time, so the page is complete before JavaScript loads.
+- Drew the interactive project graph on a canvas, with separate desktop and phone layouts and reduced-motion support.
+- Self-hosted the fonts, so visitors make no requests to third-party font services.
+
+*React, TypeScript, Vite, Tailwind CSS, Canvas, GitHub Pages*
 
 ## Education
 
