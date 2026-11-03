@@ -7,7 +7,7 @@ Computer Engineering student at Politecnico di Torino · Turin, Italy
 
 ## Summary
 
-I build products end to end, from the database and API to the interface and deployment. My work includes a Persian personal-growth platform, an open-source tool for AI coding agents, an online shop with an AI assistant, and a real-time VR rehearsal system built with a team.
+I build products end to end, from the database and API to the interface and deployment. My work includes a Persian personal-growth platform, an open-source tool for AI coding agents, an online shop with an AI assistant, and, as a research intern at Politecnico di Torino, a VR system for remote music rehearsal.
 
 ## Skills
 
@@ -17,6 +17,20 @@ I build products end to end, from the database and API to the interface and depl
 - **AI:** Claude API with tool use, Claude Code plugins, agent workflows
 - **Real-time and VR:** WebRTC, WebSocket, Web Push, Unity, Meta Quest, WebGL
 - **Tools:** Git, GitHub Pages, Vercel, Docker
+
+## Experience
+
+### Research Intern, SONIC Lab, Politecnico di Torino
+**Department of Electronics and Telecommunications** · May 2026 to present · Supervisor: Prof. Cristina Rottondi · [Case study](https://armannss.github.io/portfolio/#mevo)
+
+MEVO is a networked music performance system: a conductor in a Meta Quest headset leads musicians who join from a browser. I work with Dr. Leonardo Severi and Dr. Matteo Sacchetto, who built the original system, across a Unity VR app, a Unity WebGL musician view, a Node.js streaming bridge and a Fastify signaling server, with WebRTC carrying real-time movement.
+
+- Built the rehearsal hall shared by the VR and browser apps, including paintings, instruments and lighting.
+- Added six selectable avatars, a seating plan that shows taken seats, name labels and head look-at.
+- Added playing poses with arm IK, so each musician takes up their instrument while the rehearsal timer runs.
+- Added per-musician round-trip time to the conductor's view, so connection quality is visible in the headset.
+
+*Unity, C#, Meta Quest, TypeScript, Node.js, Fastify, WebRTC, WebSocket*
 
 ## Projects
 
@@ -57,20 +71,6 @@ A mobile-first online shop for auto parts, with an admin panel and an AI parts a
 - Built the admin panel for products, orders, wholesale requests and sales reports.
 
 *Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Claude API*
-
-### MEVO / Director
-**Team project with Matteo and Leonardo** · Oct 2026 · Private source
-
-A remote-conducting system that connects a conductor in a Meta Quest headset with musicians in a browser-based virtual rehearsal hall. It spans four repositories: a Unity VR app, a Unity WebGL musician view, a Node.js streaming bridge and a Fastify signaling server, with WebRTC carrying real-time movement data.
-
-My contributions:
-
-- Built the rehearsal hall shared by the VR and browser apps, including paintings, instruments and lighting.
-- Added six selectable avatars, a seating plan that shows taken seats, name labels and head look-at.
-- Added playing poses with arm IK, so each musician takes up their instrument while the rehearsal timer runs.
-- Added per-musician round-trip time to the conductor's view, so connection quality is visible in the headset.
-
-*Unity, C#, TypeScript, Node.js, Fastify, WebRTC, WebSocket*
 
 ### Armanly
 **Creator** · Sep 2026 to Oct 2026  
